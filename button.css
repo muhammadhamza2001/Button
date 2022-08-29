@@ -1,0 +1,276 @@
+
+
+
+.box{
+   border: 2px solid black;
+   padding: 0;
+}
+.half{
+    border-bottom: 3px solid black;
+    height: 20px;
+    background-color: yellow;
+}
+.half-txt p{
+    text-align: center;
+    margin: 0;
+    
+}
+.yellow{
+    width: 100%;
+    height: 50px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.men{
+    width: 100%;
+    height: 45px;
+    border-radius: 10px;
+    background-color: white;
+    margin-top: 2px;
+}
+.source{
+    width: 100%;
+    height: 70px;
+    border-radius: 10px;
+    background-color: purple;
+    color: white;
+    
+}
+.discard{
+    width: 100%;
+    height: 70px;
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+}
+
+.screen{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 100%;
+    height: 265px;
+}
+.text-1{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+#lines p{
+    text-align: center;
+    line-height:20px;
+}
+.entry{
+    border: 2px solid black;
+    height: 60px;
+    border-radius: 10px;
+    
+}
+.c{
+    text-align: center;
+    width: 100%;
+    border: 2px solid black;
+    border-radius: 10px;
+    background: none;
+    height: 60px;
+    font-weight: 700;
+    color: red;
+    font-size: 35px;
+}
+.same{
+    text-align: center;
+    width: 100%;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: #ccc;
+    height: 60px;
+    font-weight: 700;
+    font-size: 35px
+
+
+
+}
+.at-rate{
+    text-align: center;
+    width: 100%;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: #800000;
+    color: white;
+    height: 60px;
+    font-weight: 700;
+    font-size: 35px;
+}
+.pcs{
+    text-align: center;
+    width: 100%;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: #DAA520;
+    color: yellow;
+    height: 60px;
+    font-weight: 500;
+    font-size: 35px;
+}
+.green{
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: green;
+    width: 100%;
+    height: 120px;
+}
+#outer{
+    padding: 1px;
+}
+.box-second{
+    width: 100%;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: yellow;
+    height: 100px;
+}
+.lock{
+    width: 100%;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #23FF00; 
+}
+.logout{
+    width: 100%;
+    height: 45px;
+    border-radius: 10px;
+    background-color: #EB4102; 
+    margin-top: 2px;
+}
+.active{
+    width: 100%;
+    height: 70px;
+    border-radius: 10px;
+    background-color: #000080;
+    color: white;
+}
+.coats{
+    width: 100%;
+    height: 70px;
+    border-radius: 10px;
+    background-color: white;
+    color: blue;
+}
+.st{
+    width: 100%;
+    height: 70px;
+    border-radius: 10px;
+    background-color: #000080;
+    color: white;
+    line-height:20px;
+}
+.third-top{
+    width: 100%;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #095E09;
+    color: white;
+}
+.markdown{
+    width: 100%;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #656565;
+    color: white;
+}
+.third-box{
+    width: 100%;
+    border: 3px solid black;
+    border-radius: 10px;
+    height: 100px;
+    background-color: white;
+}
+.third-box p{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.box-table{
+    border: 2px solid black;
+    height: 140px;
+    border-radius: 10px;
+
+}
+
+.mahroon{
+    width: 100%;
+    height: 70px;
+    border-radius: 10px;
+    background-color: #800000;
+    color: white;
+    line-height:20px;
+}
+.mahroon-last{
+    width: 100%;
+    height: 70px;
+    border-radius: 10px;
+    background-color: #800000;
+    color: white;
+
+}
+.menu{
+    width: 100% ;
+    height: 100px;
+    background-color: black;
+    color: red;
+    border: 2px solid red;
+    border-radius: 10px;
+}
+.ending{
+    width: 100%;
+    border: 2px solid black;
+    height: 70px;
+    color: white;
+    background-color: #8B008B;
+    border-radius: 10px;
+}
+#line p{
+    text-align: center;
+    margin: 0;
+}
+
+#line{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    padding: 0;
+    
+}
+.coloured{
+    width: 100%;
+    height: 70px;
+    border-radius: 10px;
+    color: #800000;
+    background-color: white;
+    line-height:20px;
+}
+
+.text-1 p{
+    margin-left: 20px;
+    margin-bottom: 0;
+}
+.text-1:before{
+    width:10px;
+    background: yellow;
+    height: 40px;
+    border: 2px solid black;
+    content: "";
+    display: block;
+    position:absolute;
+    margin-left: 5px;
+    margin-top: 5px;
+  }
+  #less{
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  #less p{
+    text-align: center;
+  }
